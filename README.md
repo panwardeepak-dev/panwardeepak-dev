@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm an aspiring web developer passionate about bui
 - 🌱 **Learning:** Front-end development (HTML, CSS, JavaScript)
 - 💻 **Projects:** Building a portfolio of projects in my [Code-Showcase](https://github.com/panwardeepak-dev/Code-Showcase) repository
 - 💬 **Ask me about:** Web development and career growth in IT
-- 📫 **Contact me:** [Instagram](https://www.instagram.com/http.deepak.07) , [Linkedin](https://www.linkedin.com/in/deepakpanwa-dev)
+- 📫 **Contact me:** [Linkedin](https://www.linkedin.com/in/deepakpanwa-dev) , [Instagram](https://www.instagram.com/http.deepak.07)
 
 ---
 
