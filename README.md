@@ -19,12 +19,14 @@ Welcome to my GitHub profile! I'm an aspiring web developer passionate about bui
 
 ---
 
-## 📂 My Projects
-### [Code Showcase](https://github.com/panwardeepak-dev/Code-Showcase)
-A categorized collection of my web development projects, including:
-- Simple HTML projects
-- HTML + CSS styled designs
-- Interactive projects using JavaScript
+## 🔍 Projects Included
+
+| Project Name         | Description                                | Technologies         |
+|----------------------|--------------------------------------------|----------------------|
+| Color Scheme Switcher| Change page background using color buttons | HTML, CSS, JS        |
+| Digital Clock        | Real-time clock with animated UI           | HTML, CSS, JS        |
+| Responsive Landing   | Clean responsive landing page layout       | HTML, CSS (Flexbox)  |
+| ...more coming soon  | Stay tuned!                                |                      |
 
 ---
 
