@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm an aspiring web developer passionate about bui
 A categorized collection of my web development projects, including:
 - Simple HTML projects
 - HTML + CSS styled designs
-- Interactive projects using JavaScript (coming soon)
+- Interactive projects using JavaScript
 
 ---
 
