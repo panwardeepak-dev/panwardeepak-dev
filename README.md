@@ -13,9 +13,11 @@ Welcome to my GitHub profile! I'm an aspiring web developer passionate about bui
 ---
 
 ## 🛠️ Skills & Tools
-- **Languages:** HTML, CSS (working on JavaScript)
-- **Tools:** Git, GitHub, VS Code
-- **Learning Next:** Responsive Design, JavaScript DOM Manipulation
+
+- **Languages:** HTML, CSS, JavaScript (Basic)
+- **Tools & Platforms:** Git, GitHub, Visual Studio Code
+- **Currently Learning:** JavaScript DOM Manipulation, Responsive Design (Flexbox & Media Queries)
+
 
 ---
 
